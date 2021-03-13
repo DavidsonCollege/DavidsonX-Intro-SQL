@@ -1,1 +1,1 @@
-# DavidsonX SQL for Everyone
+# DavidsonX Introduction to SQL
